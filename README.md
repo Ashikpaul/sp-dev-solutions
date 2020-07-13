@@ -83,7 +83,7 @@ gulp serve
 
 ## Contributions
 
-These solutions are direct from the feature teams, SharePoint PnP core team (http://aka.ms/SharePointPnP) or shared by the community. This project's contributors include Microsoft and [community contributors](Contributors.md). Work is done as as open source community project. We welcome your input on issues and suggestions for new samples. We also welcome community contributions around new solutions. 
+These solutions are direct from the feature teams, SharePoint PnP core team (http://aka.ms/SharePointPnP) or shared by the community. This project's contributors include Microsoft and [community contributors](Contributors.md). Work is done as open source community project. We welcome your input on issues and suggestions for new samples. We also welcome community contributions around new solutions. 
 
 Please have a look on our [Contribution Guidance](./.github/CONTRIBUTING.md) before submitting your pull requests, so that we can get your contribution processed as fast as possible. Thanks!
 
